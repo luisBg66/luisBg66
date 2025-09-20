@@ -34,6 +34,17 @@
 </p>
 
 ---
+## 📂 Repositorios destacados
+
+- [📌 Mi API en Laravel](https://github.com/LuisBg66/mi-api-laravel)  
+  API modular con autenticación y CRUD de ejemplo.  
+
+- [📌 Blog en Astro](https://github.com/LuisBg66/mi-blog-astro)  
+  Blog minimalista y rápido con **Astro** y Markdown.  
+
+- [📌 Scripts de administración Linux](https://github.com/LuisBg66/scripts-linux)  
+  Colección de mis scripts para automatizar tareas en Linux.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
