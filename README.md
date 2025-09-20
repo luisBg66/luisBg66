@@ -22,15 +22,15 @@
 
 ## 📊 Stats de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff0000&icon_color=ff0000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisBg66&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff0000&icon_color=ff0000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBg66&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0000" height="150"/>
 </p>
 
 ---
 
 ## 🏆 Trofeos
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisBg66&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -38,3 +38,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 </p>
+
