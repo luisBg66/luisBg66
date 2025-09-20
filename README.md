@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header&text=Luis%20Bernal&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header&text=LuisBg66&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 ---
