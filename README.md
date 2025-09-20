@@ -35,16 +35,15 @@
 
 ---
 ## 📂 Repositorios destacados
+ 
+- [📌 Api Inbernadero](https://github.com/luisBg66/ApiInbernadero)  
+  Proyecto desarrollado para la materia de Desarrollo Web Avanzado III, enfocado en **practicar Laravel Conexion con tenoligas de IoT**,  CRUD y manejo de datos y panel adminitrativo.  
 
-- [📌 Mi API en Laravel](https://github.com/LuisBg66/mi-api-laravel)  
-  API modular con autenticación y CRUD de ejemplo.  
+- [📌 Becas Jaguar](https://github.com/luisBg66/ApiBecas2#)  
+  Proyecto desarrollado para la materia de Desarrollo Web Avanzado I, enfocado en **practicar Laravel y crear una API REST completa**, incluyendo autenticación, CRUD y manejo de datos.  
 
-- [📌 Blog en Astro](https://github.com/LuisBg66/mi-blog-astro)  
-  Blog minimalista y rápido con **Astro** y Markdown.  
-
-- [📌 Scripts de administración Linux](https://github.com/LuisBg66/scripts-linux)  
-  Colección de mis scripts para automatizar tareas en Linux.
-
+- [📌 Becas Jaguar Frontend](https://github.com/luisBg66/Becas_Jaguar_fronten)  
+  Proyecto desarrollado para la materia de Desarrollo Web Avanzado II, enfocado en **practicar el Frontend**, Con dar,manjo de leentos,estilos,vistas.  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
