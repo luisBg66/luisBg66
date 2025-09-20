@@ -1,16 +1,19 @@
-## Hi there 👋
+# Proyecto Laravel 🚀
 
-<!--
-**luisBg66/luisBg66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositorio contiene un proyecto basado en **Laravel**.
 
-Here are some ideas to get you started:
+## 🚧 Requisitos
+- PHP >= 8.1
+- Composer
+- MySQL / PostgreSQL
+- Node.js & NPM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Instalación
+```bash
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate --seed
+npm install && npm run dev
